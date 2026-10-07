@@ -1,0 +1,14 @@
+D:\dotnet\miniproject\miniproject\bin\Debug\miniproject.exe.config
+D:\dotnet\miniproject\miniproject\bin\Debug\miniproject.exe
+D:\dotnet\miniproject\miniproject\bin\Debug\miniproject.pdb
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.csproj.AssemblyReference.cache
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.Form1.resources
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.Form2.resources
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.Properties.Resources.resources
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.csproj.GenerateResource.cache
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.csproj.CoreCompileInputs.cache
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.exe
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.pdb
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.Form3.resources
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.Form4.resources
+D:\dotnet\miniproject\miniproject\obj\Debug\miniproject.Form5.resources
